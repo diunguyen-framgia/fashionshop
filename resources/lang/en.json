@@ -1,0 +1,20 @@
+{
+  "login" : "Login",
+  "register" : "Register",
+  "password" : "Password",
+  "remember Me" : "Remember Me",
+  "forgot Your Password?" : "Forgot Your Password?",
+  "email" : "E-Mail Address",
+  "confirm Password" : "Confirm Password",
+  "username" : "UserName",
+  "phone" : "Phone",
+  "address" : "Address",
+  "logout" : "Logout",
+  "home" : "Home",
+  "dashboard" : "Dashboard",
+  "admin" : "Dashboard Admin",
+  "hello" : "Hello, User : name",
+  "content" : "You are logged in!",
+  "errors" : "Đăng ký thành viên thất bại!"
+
+}
